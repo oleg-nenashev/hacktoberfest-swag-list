@@ -29,6 +29,25 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 ### A
 
 
+### W
+
+#### WireMock
+
+[WireMock](https://wiremock.org/) is a popular open-source tool for API mock testing, with over 5 million downloads per month.
+It can help you to create stable test and development environments, isolate yourself from flakey 3rd parties and simulate APIs that don't exist yet.
+This year WireMock community will participate in Hacktoberfest and will offer additional physical swag to the most active contributors.
+
+Adopt WireMock in your projects; contribute new features, bug fixes or enhancements; improve WireMock documentation; create new demos and guides; publish new mock API templates;
+improve WireMock user and developer experience; create cool artwork… and anything else!
+Here is a brief list of languages and technologies we have: Java, Kotlin, Python, Golang, Rust, Docker, Kubernetes, REST API, GraphQL, gRPC, Markdown, JUnit, Gradle, Maven, GitHub Actions, JSON, YAML.
+In fact, there are a lot more technologies within the [WireMock Ecosystem](https://github.com/wiremock/ecosystem).
+
+- **Swag**: [T-Shirts, Stickers, Digital Badges]([https://hacktoberfest.com/about/#digital-rewards](https://wiremock.org/events/hacktoberfest/#get-wiremock-swag))
+- **Requirements**: At least one substantial contribution, code or not-code one
+- **How to sign-up**: [Get Started](https://wiremock.org/events/hacktoberfest/#get-started)
+- **Notes**: See [this page](https://wiremock.org/events/hacktoberfest/) for the eligibility details and guidelines.
+  The sponsors will provide at least a few dozens physical swag kits, the contributions will be reviewed and ranked by maintainers.
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
